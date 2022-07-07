@@ -1,0 +1,22 @@
+Algoritmos e Técnicas de Programação
+- Sequencia lógica de passos para a resolução de um problema
+-- Receita de bolo
+-- manual de instruções 
+
+ENTRADAS  ->   SISTEMA    ->  SAÍDAS
+
+SEQUENCIAIS
+- Sempre que executado o algoritmo, os mesmos passos são executados
+
+CONTROLE DO FLUXO
+- Desvios condicionais (SE-ENTÃO)
+-- se-entao  /  if 
+-- se-entao-senao     /   if - else
+-- se-entao    se-entao  - senao   se-entao
+
+- estruturas de repetição
+-- ENQUANTO /  WHILE
+-- PARA-FAÇA  /  FOR
+
+MODULARIZAÇÃO
+- Procedimentos e Funções
